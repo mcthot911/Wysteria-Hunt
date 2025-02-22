@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0c898cb53f2b0c14e941e367292a20ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 284361
+  packageName: Card Game Core
+  packageVersion: 2.2.0
+  assetPath: Assets/BG Games/Card Game Core/AddressableAssetsData/AssetGroups/Schemas/Localization-String-Tables-German
+    (de)_BundledAssetGroupSchema.asset
+  uploadId: 729967
